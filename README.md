@@ -48,7 +48,6 @@ Layered view compositions and gradients
 🚀 Getting Started
 
 Clone the repository:
-git clone https://github.com/your-username/hike-app.git
 Open Hike.xcodeproj in Xcode 15.
 Build and run on an iOS Simulator or your iPhone (iOS 17+).
 
